@@ -41,7 +41,8 @@
 
 #### 2.1.   单个源文件的例子
 ##### 2.1.1.    编写CMakeList.txt
-以下面的`Demo_1`的实例来学习程序为例子，项目中的一个源文件`main.cpp`如下：
+以下面的[`Demo_1` - 点击下载代码](https://github.com/BLB0803/Cpp_learning_note/tree/master/Demo_1)的实例来学习程序为例子，项目中的一个源文件`main.cpp`如下：
+
 ```cpp
 /*
  * power - Calculate the power of number.
